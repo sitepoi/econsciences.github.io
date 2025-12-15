@@ -1,0 +1,165 @@
+Template-type: ReDIF-Book 1.0
+Name: EconSciences Books
+Description: This is the official journal of EconSciences Journals
+Provider-Name: EconSciences Books
+Provider-Homepage: http://econsciences.com
+Provider-Postal: Istanbul, Turkey
+Provider-Email: contact@econsciences.com
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: contact@econsciences.com
+Editor-Name: Bilal KARGI
+Editor-Email: contact@econsciences.com
+Type: ReDIF-Book
+Handle: RePEc:cvv:books
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economics and Political Economy
+Description: This is the official journal of EconSciences Journals
+Provider-Name: EconSciences Journals
+Provider-Homepage: http://journals.econsciences.com
+Provider-Postal: Istanbul, Turkey
+Provider-Email: journals@econsciences.com
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: journals@econsciences.com
+Editor-Name: Bilal KARGI
+Editor-Email: journals@econsciences.com
+Type: ReDIF-Article
+Handle: RePEc:cvv:journ1
+ISSN: 2148-8347
+
+Template-type: ReDIF-Series 1.0
+Name: Turkish Economic Review
+Description: This is the official journal of EconSciences Journals
+Provider-Name: EconSciences Journals
+Provider-Homepage: http://journals.econsciences.com
+Provider-Postal: Istanbul, Turkey
+Provider-Email: journals@econsciences.com
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: journals@econsciences.com
+Editor-Name: Bilal KARGI
+Editor-Email: journals@econsciences.com
+Type: ReDIF-Article
+Handle: RePEc:cvv:journ2
+ISSN: 2149 - 0414
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economic and Social Thought
+Description: This is the official journal of EconSciences Journals
+Provider-Name: EconSciences Journals
+Provider-Homepage: http://journals.econsciences.com
+Provider-Postal: Istanbul, Turkey
+Provider-Email: journals@econsciences.com
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: journals@econsciences.com
+Editor-Name: Bilal KARGI
+Editor-Email: journals@econsciences.com
+Type: ReDIF-Article
+Handle: RePEc:cvv:journ3
+ISSN: 2149 - 0422
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Social and Administrative Sciences
+Description: This is the official journal of EconSciences Journals
+Provider-Name: EconSciences Journals
+Provider-Homepage: http://journals.econsciences.com
+Provider-Postal: Istanbul, Turkey
+Provider-Email: journals@econsciences.com
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: journals@econsciences.com
+Editor-Name: Bilal KARGI
+Editor-Email: journals@econsciences.com
+Type: ReDIF-Article
+Handle: RePEc:cvv:journ4
+ISSN: 2149 - 0406
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economics Library
+Description: This is the official journal of EconSciences Journals
+Provider-Name: EconSciences Journals
+Provider-Homepage: http://journals.econsciences.com
+Provider-Postal: Istanbul, Turkey
+Provider-Email: journals@econsciences.com
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: journals@econsciences.com
+Editor-Name: Bilal KARGI
+Editor-Email: journals@econsciences.com
+Type: ReDIF-Article
+Handle: RePEc:cvv:journ5
+ISSN: 2149 - 2379
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economics Bibliography
+Description: This is the official journal of EconSciences Journals
+Provider-Name: EconSciences Journals
+Provider-Homepage: http://journals.econsciences.com
+Provider-Postal: Istanbul, Turkey
+Provider-Email: journals@econsciences.com
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: journals@econsciences.com
+Editor-Name: Bilal KARGI
+Editor-Email: journals@econsciences.com
+Type: ReDIF-Article
+Handle: RePEc:cvv:journ6
+ISSN: 2149 - 2387
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economics and SDGs Review
+Description: This is the official journal of EconSciences Journals
+Provider-Name: EconSciences Journals
+Provider-Homepage: http://journals.econsciences.com
+Provider-Postal: Istanbul, Turkey
+Provider-Email: journals@econsciences.com
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: journals@econsciences.com
+Editor-Name: Bilal KARGI
+Editor-Email: journals@econsciences.com
+Type: ReDIF-Article
+Handle: RePEc:cvv:journ7
+ISSN: 3062 - 3723
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Innovation, Technology and Knowledge Economy
+Description: This is the official journal of EconSciences Journals
+Provider-Name: EconSciences Journals
+Provider-Homepage: http://journals.econsciences.com
+Provider-Postal: Istanbul, Turkey
+Provider-Email: journals@econsciences.com
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: journals@econsciences.com
+Editor-Name: Bilal KARGI
+Editor-Email: journals@econsciences.com
+Type: ReDIF-Article
+Handle: RePEc:cvv:journ8
+ISSN: 3108 - 5539
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Agriculture, Food and Sustainable Development
+Description: This is the official journal of EconSciences Journals
+Provider-Name: EconSciences Journals
+Provider-Homepage: http://journals.econsciences.com
+Provider-Postal: Istanbul, Turkey
+Provider-Email: journals@econsciences.com
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: journals@econsciences.com
+Editor-Name: Bilal KARGI
+Editor-Email: journals@econsciences.com
+Type: ReDIF-Article
+Handle: RePEc:cvv:journ9
+ISSN: 3108 - 5520
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Sustainable Energy and Environmental Development
+Description: This is the official journal of EconSciences Journals
+Provider-Name: EconSciences Journals
+Provider-Homepage: http://journals.econsciences.com
+Provider-Postal: Istanbul, Turkey
+Provider-Email: journals@econsciences.com
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: journals@econsciences.com
+Editor-Name: Bilal KARGI
+Editor-Email: journals@econsciences.com
+Type: ReDIF-Article
+Handle: RePEc:cvv:journ10
+ISSN: 3062 - 3715
+
+
